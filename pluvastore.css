@@ -1,0 +1,41 @@
+body{
+  background-color: ghostwhite;
+}
+header{
+  background-image: url(img/two-women-walking-side-by-side-1426191.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+.shop{
+  background-image: url(img/clothes-on-sale-2292953.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+}
+.collect{
+    background-image: url(img/assorted-gift-boxes-on-brown-wooden-floor-surface-1050244.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+/* .service{
+  background-image: url(img/basket-bassinet-business-cart-264547.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 700px;
+} */
+.set-service{
+  background-image: url(img/people-inside-mall-2954405.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 700px;
+}
+.lia{
+  font-size: 1.7rem;
+  font-weight:600;
+  font-family: sans-serif;
+}
+.nv-wrapper{
+  height:90px;
+}
